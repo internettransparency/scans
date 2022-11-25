@@ -1,9 +1,10 @@
 ---
+layout: default
 title: Internet transparency research project
-feature_image: "/pics/background-ga3c4abc21_1920.jpg"
+description: University of Twente, The Netherlands
 # structure from https://wiki.surfnet.nl/display/SURFcert/Richtlijnen+voor+scans
 ---
-
+### The research
 This host performs scans of other machines on the public internet as
 part of a research project performed by the Design and Analysis of Communication Systems from the faculty of Electrical Engineering, Mathematics and Computer Sciences of University of Twente.
 Our goal is to study the Internet to give more insights on components and how they relate to each other.
@@ -20,7 +21,9 @@ The results of our research will be safely stored locally, so we can do data ana
 All the collected data will be destroyed after our research.  
 
 ### Opt-out
-If you do not want your site included in this research you can opt-opt by following our [contact us](/contact) page.  
+If you do not want your site included in this research you can opt-opt by following our [contact us](/contact.html) page.  
 
 ### Questions
-For further questions about the research you can send an email to our e-mail list provided [here](/contact) where the supervisor of this project can answer questions about it.  
+For further questions about the research you can send an email to our e-mail list provided [here](/contact.html) where the supervisor of this project can answer questions about it.  
+
+### [Contact us](/contact.html)
