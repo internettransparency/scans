@@ -9,6 +9,7 @@ In case our scans is impacting you and you decide to be removed from it, please 
 * IP range to be out of our scans;
 * Port number to be out of our scans (or all ports);
 * How long you do not want your IP range to be scanned;
-* Reason to be excluded from the scans (what service is being disrupted or why you feel your service is impacted).
+* Reason to be excluded from the scans (what service is being disrupted or why you feel your service is impacted);
+* When (timestamp) you observed our scan.
 
-Address: [transparency.internet@gmail.com](mailto:transparency.internet@gmail.com)
+Address: [scan-complaints@internet-transparency.org](mailto:scan-complaints@internet-transparency.org)
